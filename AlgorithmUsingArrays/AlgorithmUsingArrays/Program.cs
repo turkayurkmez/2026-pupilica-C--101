@@ -51,7 +51,10 @@ Console.WriteLine($"Tam sayı içindeki değer {basamakSayisi} bsamaklıdır");
 
 
 
-
+//while (yasiyorum)
+//{
+//    Console.WriteLine("Seni Seviyorum");
+//}
 
 
 
